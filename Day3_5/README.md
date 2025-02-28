@@ -1,6 +1,5 @@
 
-Total distnace
-![Image](https://github.com/user-attachments/assets/251628db-055c-4d96-83cc-773b93e18a4b)
+
 
 Logic Gates
 ![Image](https://github.com/user-attachments/assets/c7381ff7-67a6-466f-b8be-36d0579e2c84)
@@ -21,6 +20,9 @@ Fibonacci series , Up counter and down counter
 
 Pythargus 
 ![Image](https://github.com/user-attachments/assets/53bd6636-215f-48da-bebc-e203e86ab844)
+
+Total distnace
+![Image](https://github.com/user-attachments/assets/251628db-055c-4d96-83cc-773b93e18a4b)
 
 Calculator
 ![Image](https://github.com/user-attachments/assets/45db766f-d17f-4ce4-a79b-d13fd4ae539c)
