@@ -50,3 +50,9 @@ Lowest unsigned Integer represented in 64 bit is *0*
 The range of a 64-bit integer in C is from * -9,223,372,036,854,775,808* to *9,223,372,036,854,775,807*
 
 ![Image](https://github.com/user-attachments/assets/b976d45b-2e06-42bb-8875-4dfc3bb7b0d8)
+
+Compiling and simulating *1to9_custom.c* using picorv32 
+
+
+
+![Image](https://github.com/user-attachments/assets/0517a21b-683e-4c3d-a24a-ace685475023)
