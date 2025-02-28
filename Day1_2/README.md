@@ -31,7 +31,7 @@ The address of the main section is 100B0(Hex) and we got 11 instructions.
 
 Simulation using Spike Tool
 
-![image](https://github.com/user-attachments/assets/0498acd6-e3f4-4b28-b588-c4ad9208f986)
+![Image](https://github.com/user-attachments/assets/979f5b71-0916-4811-84db-30cea89a060f)
 
 
 Debugging using Spike Tool
