@@ -171,6 +171,8 @@
                $is_slt ? ($src1_value[31] == $src2_value[31]) ? $sltu_rslt : {31'b0, $src1_value[31]} :
                $is_slti ? ($src1_value[31] == $imm[31]) ? $sltu_rslt : {31'b0, $src1_value[31]} :
                $is_sra ? { {32{$src1_value[31]}}, $src1_value} >> $src2_value[4:0] :
+               $is_load ? $src1_value + $imm :
+               $is_s_instr ? $src1_value + $imm :
                32'bx;
          $sltiu_rslt[31:0] = $src1_value[31:0] < $imm;
          $sltu_rslt[31:0]  = $src1_value[31:0] < $src2_value[31:0];
